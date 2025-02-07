@@ -1,5 +1,10 @@
 # Technique
 
+- Solve previosuly solved problems
+- Now solve Leetcode top 150 problems (arranged nicely in Neetcode)
+- AFTER SOLVING THESE 150 problems, If you want to solve more, then explore other problems. 
+
+---
 ### 1. Start from EASY, then go MEDIUM, and HARD
 1. First try to solve all the easy ones of each DSA.
 2. Then, Medium of each.
@@ -41,3 +46,17 @@
     - Maintain the STREAKs on leetcode in someway. 😛
     - Spend some days on DSA if necessary.
 2. Try to code the DSA from Scratch. 
+
+
+-----
+
+## Types of Big O Notations
+There are seven common types of big O notations. These include:
+
+1. O(1): Constant complexity. 
+2. O(logn): Logarithmic complexity. 
+3. O(n): Linear complexity. 
+4. O(nlogn): Loglinear complexity. 
+5. O(n^x): Polynomial complexity. 
+6. O(X^n): Exponential time. 
+7. O(n!): Factorial complexity.  
