@@ -1,4 +1,4 @@
-package OLD;
+package Leetcode.OLD;
 
 import java.util.HashMap;
 import java.util.Scanner;
