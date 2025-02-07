@@ -13,9 +13,11 @@
 ### 2. First think SOLUTION, then CODE
 1. First think of the how to solve it logically, Do not think how to code it.
     - Didn't get what it means? [Check the video.](https://youtu.be/xF554Tlzo-c?si=tNe_hSI43OE0Q2om&t=162)
-2. Jump to check the optimal way (Jump to Step. 3.2)
-3. Think! Try to solve it in optimal way.
-4. Now, CODE.
+2. Code your solution. 
+3. Run test-cases, submit, get it accepted. 
+4. Jump to check the optimal way (Jump to Step. 3.2)
+5. Think! Try to solve it in optimal way.
+6. Now, CODE.
 
 ### 3. Learn by doing the in the right approach
 1. First, try to come up with your solution (From Step. 2.1)
@@ -34,7 +36,7 @@
     - ChatGPT
 2. Understand, and learn the correct coding approach.
 3. Learn necessary DSA (if required)
-4. Replicate in the correct way
+4. Replicate it considering the corner cases. 
 5. Build, and RUN it.
 
 ### 5. Congrats, if you able to solve it by your own, BUT..

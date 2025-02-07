@@ -1,4 +1,4 @@
-package Leetcode._9_Palindrome_Number;
+package Leetcode_DSA._9_Palindrome_Number;
 // This is done in String-Based Approach --> (Suboptimal) -->
 // Convert the number to a string and check if it reads the same forward and backward (uses extra space).
 public class Palindrome_Number_9 {

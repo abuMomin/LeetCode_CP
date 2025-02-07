@@ -1,4 +1,4 @@
-package Leetcode.OLD;
+package Leetcode_DSA.OLD;
 
 import java.util.*;
 
