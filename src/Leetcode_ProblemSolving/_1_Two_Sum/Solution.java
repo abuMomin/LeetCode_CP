@@ -1,4 +1,4 @@
-package Leetcode._1_Two_Sum;
+package Leetcode_ProblemSolving._1_Two_Sum;
 // Complexity is in O(n^2). Brute force approach.
 public class Solution {
     public static int[] twoSum(int[] nums, int target) {

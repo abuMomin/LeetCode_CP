@@ -1,7 +1,7 @@
 # Technique
 
 - Solve previosuly solved problems
-- Now solve Leetcode top 150 problems (arranged nicely in Neetcode)
+- Now solve Leetcode_ProblemSolving top 150 problems (arranged nicely in Neetcode)
 - AFTER SOLVING THESE 150 problems, If you want to solve more, then explore other problems. 
 
 ---

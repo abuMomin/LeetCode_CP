@@ -1,4 +1,4 @@
-package Leetcode_DSA._1_Two_Sum;
+package Leetcode_ProblemSolving._1_Two_Sum;
 // Using Hashmap --> Time Complexity O(n)
 import java.util.HashMap;
 

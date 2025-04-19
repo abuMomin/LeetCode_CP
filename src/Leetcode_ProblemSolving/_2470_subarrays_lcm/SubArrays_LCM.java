@@ -1,4 +1,4 @@
-package Leetcode_DSA._2470_subarrays_lcm;
+package Leetcode_ProblemSolving._2470_subarrays_lcm;
 
 public class SubArrays_LCM {
     static int lcm_Euclidean (int num_1, int num_2){
