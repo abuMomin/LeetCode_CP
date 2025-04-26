@@ -62,3 +62,17 @@ There are seven common types of big O notations. These include:
 5. O(n^x): Polynomial complexity. 
 6. O(X^n): Exponential time. 
 7. O(n!): Factorial complexity.  
+
+
+## Things to Learn
+
+1. Memory Complexity and Time complexity
+2. Recursion
+2. Sorting Algorithms
+3. Searching Algorithms
+
+### Note
+
+- Recursion Practice: 
+  - Binary Search
+  - 278: First Bad version

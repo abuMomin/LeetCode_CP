@@ -1,5 +1,5 @@
 package Leetcode_ProblemSolving._1_Two_Sum;
-// Using Hashmap --> Time Complexity O(n)
+// Using Hashmap --> Time Complexity O(n), Space Complexity O(n) --> Optimal Approach.
 import java.util.HashMap;
 
 public class Solution_Optimal {
